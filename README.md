@@ -151,7 +151,7 @@ Solana           $145.00  DOWN 0.42%
 
 **Priyanka Maurya**
 Data Analyst | Power BI | SQL | Python
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/priyanka-maurya-0889a2330?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub](https://github.com/your-Priiyanka21)
 
 ---
 

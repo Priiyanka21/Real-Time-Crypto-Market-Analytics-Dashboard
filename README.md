@@ -1,7 +1,8 @@
-# 🚀 Real-Time Cryptocurrency Analytics Dashboard
+<img width="1426" height="817" alt="Screenshot 2026-07-02 095235" src="https://github.com/user-attachments/assets/68315fff-63e5-48a2-8fb7-a1ac74aaf52c" /># 🚀 Real-Time Cryptocurrency Analytics Dashboard
 ### Python | PostgreSQL | Power BI | CoinGecko API
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](![Uploading Screenshot 2026-07-02 095235.png…]
+)
 
 ---
 

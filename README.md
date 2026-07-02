@@ -4,11 +4,6 @@
 # 🚀 Real-Time Cryptocurrency Analytics Dashboard
 ### Python | PostgreSQL | Power BI | CoinGecko API
 
-
-
----
-![Dashboard Preview](![Uploading Screenshot 2026-07-02 095235.png…]
-)
 ## 📌 Project Overview
 
 An end-to-end **real-time data pipeline** that automatically fetches live cryptocurrency market data every 5 minutes from the CoinGecko API, stores it in a PostgreSQL database, and visualizes it through an interactive Power BI dashboard with 8+ charts and KPI cards.
